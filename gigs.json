@@ -1,1 +1,50 @@
-[]
+[
+ {
+  "date": "2026-11-22",
+  "time": "9:30am",
+  "venue": "St. James' Church, Sussex Gardens, W2",
+  "title": "Sunday service"
+ },
+ {
+  "date": "2026-11-29",
+  "time": "3:30pm",
+  "venue": "Our Lady of Hal, Arlington Road, Camden Town, NW1",
+  "title": "Advent Carol Liturgy with the Hal Singers"
+ },
+ {
+  "date": "2026-12-05",
+  "time": "TBC",
+  "venue": "St. Saviour's Church, St. George's Square, SW1V",
+  "title": "Covent Garden Chorus concert"
+ },
+ {
+  "date": "2026-12-07",
+  "time": "TBC",
+  "venue": "Tooting, SW17",
+  "title": "Carol Service"
+ },
+ {
+  "date": "2026-12-09",
+  "time": "4:00pm",
+  "venue": "Tooting, SW17",
+  "title": "Carol Services"
+ },
+ {
+  "date": "2026-12-18",
+  "time": "7:15pm",
+  "venue": "Our Lady of Hal, Arlington Road, Camden Town, NW1",
+  "title": "Nine Lessons & Carols with the Hal Singers"
+ },
+ {
+  "date": "2026-12-24",
+  "time": "9:30pm",
+  "venue": "Our Lady of Hal, Arlington Road, Camden Town, NW1",
+  "title": "Christmas Eve Carols & Midnight Mass – Malcolm, Missa ad Praesepe"
+ },
+ {
+  "date": "2026-12-25",
+  "time": "11:00am",
+  "venue": "Our Lady of Hal, Arlington Road, Camden Town, NW1",
+  "title": "Christmas Day Mass"
+ }
+]
